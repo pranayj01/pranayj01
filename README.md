@@ -16,19 +16,20 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Pursuing **B.Tech in Computer Science & Engineering** at **IIIT Nagpur** *(7th Semester)*
-- 🎯 Actively looking for **internships** at dev tool & product companies
-- 📈 Long-term goal: crack a **FAANG-tier full-time role**
+- 🎓 Pursuing **B.Tech in Computer Science & Engineering** at **IIIT Nagpur**
+- 🧠 Figuring out AI
+- 🛠️ Building projects that solve real-world problems
+- 🚀 Looking for my next engineering adventure
 
 ---
 
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/" target="_blank">
+  <a href="https://linkedin.com" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://leetcode.com/pranayj01" target="_blank">
+  <a href="https://leetcode.com/pranayj24" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <a href="mailto:pranayjain2408@gmail.com">
