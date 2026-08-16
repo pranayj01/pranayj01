@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.gif" alt="banner" width="100%"/>
+  <img src="banner.gif" alt="banner" height="70%" width="100%"/>
 </div>
 
 <h1 align="center">Hey there, I'm Pranay 👋</h1>
