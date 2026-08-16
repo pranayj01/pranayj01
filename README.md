@@ -126,14 +126,6 @@
 
 ---
 
-## 🚀 Currently Working On
-
-- 🔍 **Payments Reconciliation System** — Python-based tool to detect mismatches across transaction sources
-- 📚 **DSA Grind** — Consistent LeetCode practice for campus placements
-- 🏗️ Building portfolio projects targeting **dev tools & infra**
-
----
-
 <div align="center">
   <i>⚡ "First, solve the problem. Then, write the code." — John Johnson</i>
 </div>
